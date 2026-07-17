@@ -54,12 +54,6 @@ My_First_Website/
 
 ## 🚀 Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/aaronp1999/My_First_Website.git
-```
-
 ### Open the Project
 
 Simply open the `index.html` file in your web browser.
@@ -86,38 +80,3 @@ This project helped me learn:
 - GitHub repository management
 - GitHub Pages deployment
 
----
-
-## 🔮 Future Improvements
-
-- Dark mode
-- Contact form
-- Animations
-- Better responsiveness
-- Improved UI/UX
-- Backend integration
-- Database connectivity
-
----
-
-## 👨‍💻 Developer
-
-**Aaron P**
-
-BCA Graduate
-
-Aspiring Full Stack Developer
-
-India
-
-GitHub: https://github.com/aaronp1999
-
----
-
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
-
----
-
-⭐ If you like this project, feel free to star the repository.
